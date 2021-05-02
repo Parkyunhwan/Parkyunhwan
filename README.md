@@ -3,8 +3,8 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Parkyunhwan&show_icons=true&theme=radical)
-[![ypark's 42 stats](https://badge42.herokuapp.com/api/stats/ypark)](https://github.com/JaeSeoKim/badge42)
-<!--
+<!--[![ypark's 42 stats](https://badge42.herokuapp.com/api/stats/ypark)](https://github.com/JaeSeoKim/badge42)
+
 **Parkyunhwan/Parkyunhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
